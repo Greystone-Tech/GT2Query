@@ -20,3 +20,7 @@ GT2Query will always force lowercase, so these commands are not case-sensitive
 * IMEI
 * Signal-Quality
 * Signal-Strength
+
+### System
+* Version
+* Reset-gsm
